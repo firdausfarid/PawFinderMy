@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PawFinder.ButtonPrimary" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/pf_primary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="PawFinder.ButtonSecondary" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/pf_secondary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="PawFinder.ButtonTertiary" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/pf_tertiary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="PawFinder.ButtonSoft" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:minHeight">52dp</item>
+        <item name="backgroundTint">@color/pf_surface</item>
+        <item name="android:textColor">@color/pf_text_primary</item>
+        <item name="strokeColor">@color/pf_outline</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

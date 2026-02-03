@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533357035446",
+    "project_id": "pawfindermy-f8740",
+    "storage_bucket": "pawfindermy-f8740.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533357035446:android:131d58055468cae4e28b17",
+        "android_client_info": {
+          "package_name": "com.example.pawfindermy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtp4FhH46MiC1KeAR33W1PCu5pSpPfvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

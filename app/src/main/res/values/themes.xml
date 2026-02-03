@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.PawFinderMy" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/pf_primary</item>
+        <item name="colorSecondary">@color/pf_secondary</item>
+        <item name="colorTertiary">@color/pf_accent</item>
+
+
+        <item name="android:windowBackground">@color/pf_background</item>
+
+
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.PawFinder.Rounded</item>
+    </style>
+
+    <style name="Theme.PawFinderMy" parent="Base.Theme.PawFinderMy" />
+
+    <style name="ShapeAppearance.PawFinder.Rounded" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+</resources>
